@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "658032166300",
+    "firebase_url": "https://ml-kit-ocr-202a7.firebaseio.com",
+    "project_id": "ml-kit-ocr-202a7",
+    "storage_bucket": "ml-kit-ocr-202a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658032166300:android:b5ed028d74d6ef14",
+        "android_client_info": {
+          "package_name": "com.ysn.mlkitocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658032166300-ndd7kgbgpo8sf1cu3vitief9j1v0o3ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ-UmCsCGyf2NmrKXhChq_l33AuEPsGG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
